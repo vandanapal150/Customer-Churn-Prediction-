@@ -1,19 +1,19 @@
 # Customer Churn Prediction
-Customer Churn refers to the rate of customer attrition in a company or we can say that spped at which customer laves your company or service.
+Customer Churn refers to the rate of customer attrition in a company or we can say that speed at which customer leaves your company or service.
 For example,  cancellation of a subscription, closure of an account, decision to shop from another place, etc. .
 
-Churn could happen due to many different reasons and churn analysis helps to identifi the cause ( and timings ) of this churn opening up opportunities to implement effective retention strategies .
+Churn could happen due to many different reasons and churn analysis helps to identify the cause ( and timings ) of this churn opening up opportunities to implement effective retention strategies .
 
 Steps used for building a model to predict churn in a company are as follows :
   *   Gather available customer behaviour, transaction, demographics data and usage patterns.
 
  *    Utilize these data points to predict customer segments who are likely to churn.
 
- *     Create a model to pattern the risk tolerance of the business with respect to churn probability.
+ *    Create a model to pattern the risk tolerance of the business with respect to churn probability.
 
 ## MODEL DESCRIPTION : 
 
-The predictive churn model loos at the user activity from the past and checks who is active after certain.
+The predictive churn model looks at the user activity from the past and checks who is active after certain.
 Then creates a model that probabilistically identifies the steps and stages when a customer ( or segment ) is leaving your service.
 
 Techniques used for building predictive models are:
